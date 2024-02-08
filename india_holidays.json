@@ -1,0 +1,52 @@
+{
+    "holidays": [
+        {
+            "date": "2024-01-01",
+            "name": "New Year's Day"
+        },
+        {
+            "date": "2024-01-15",
+            "name": "Makar Sankranti / Pongal"
+        },
+        {
+            "date": "2024-01-26",
+            "name": "Republic Day"
+        },
+        {
+            "date": "2024-04-09",
+            "name": "Chandramana Ugadi (Bangalore)"
+        },
+        {
+            "date": "2024-04-11",
+            "name": "Eid-ul-Fitr (Ramzan)"
+        },
+        {
+            "date": "2024-05-01",
+            "name": "Labour Day"
+        },
+        {
+            "date": "2024-08-15",
+            "name": "Independence Day"
+        },
+        {
+            "date": "2024-10-02",
+            "name": "Gandhi Jayanti"
+        },
+        {
+            "date": "2024-10-11",
+            "name": "Ayudha Puja (Chennai)"
+        },
+        {
+            "date": "2024-10-31",
+            "name": "Deepavali / Diwali (Chennai)"
+        },
+        {
+            "date": "2024-11-01",
+            "name": "Karnataka Rajyotsava Day (Bangalore)"
+        },
+        {
+            "date": "2024-12-25",
+            "name": "Christmas Day"
+        }
+    ]
+}
